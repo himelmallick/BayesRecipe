@@ -1,0 +1,12 @@
+Package: BayesRecipe
+Type: Package
+Title: Bayesian Reciprocal Regularization
+Version: 0.1
+Date: 2019-10-11
+Authors: Himel Mallick (Merck Research Laboratories) <himel.mallick@merck.com>, Rahim Alhamzawi (University of Al-Qadisiyah) <rahim.alhamzawi@qu.edu.iq>, Vladimir Svetnik (Merck Research Laboratories) <vladimir_svetnik@merck.com>
+Maintainer: Himel Mallick <himel.mallick@merck.com>
+Description: Implementation of Bayesian reciprocal regularization for regression and classification.
+Depends: R (>= 3.5.0), msm, miscTools, glmnet, timeSeries, Bolstad2, mombf, coda, MCMCglmm, VGAM, truncdist, mvtnorm, SuppDists, MCMCpack, MASS, bayeslm
+License: MIT
+LazyData: TRUE
+RoxygenNote: 7.2.3
