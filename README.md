@@ -274,11 +274,11 @@ If you use `BayesRecipe` in your work, please cite the following as appropriate:
 
 2. Alhamzawi R, Mallick H (2022). [Bayesian Reciprocal LASSO Quantile Regression](https://www.tandfonline.com/doi/abs/10.1080/03610918.2020.1804585). *Communications in Statistics - Simulation and Computation*, 51(11): 6479-6494.
   
-3. Alhamzawi R, Alhamzawi A, Mallick H (2023). [The Reciprocal Elastic Net](https://www.tandfonline.com/doi/abs/10.1080/23737484.2023.2278106). *Communications in Statistics – Case Studies and Data Analysis*, 9(4), 422–436.
+3. Alhamzawi R, Alhamzawi A, Mallick H (2023). [The Reciprocal Elastic Net](https://www.tandfonline.com/doi/abs/10.1080/23737484.2023.2278106). *Communications in Statistics – Case Studies and Data Analysis*, 9(4):422–436.
 
 4. Paul E, Mallick H (2024+). [Unified Reciprocal LASSO Estimation Via Least Squares Approximation](https://www.tandfonline.com/doi/abs/10.1080/03610918.2022.2146723). *Communications in Statistics - Simulation and Computation*, In Press.
 
-5. Paul E, He J, Mallick H (2024+). [Accelerated Bayesian Reciprocal LASSO](https://www.tandfonline.com/doi/abs/10.1080/03610918.2023.2276050). *Communications in Statistics - Simulation and Computation*, In Press.
+5. Paul E, He J, Mallick H (2025+). [Accelerated Bayesian Reciprocal LASSO](https://www.tandfonline.com/doi/abs/10.1080/03610918.2023.2276050). *Communications in Statistics - Simulation and Computation*, In Press.
 
 
 
